@@ -10,10 +10,10 @@ function itsg_gf_abnlookup_form_has_abnlookup() {
 
 jQuery(document).bind('gform_load_field_settings', function(event, field, form) {
 	// we only need to add in the ABN Lookup result settings if we actually have an ABN lookup in the form
-	if (!itsg_gf_abnlookup_form_has_abnlookup()) return;
+	//if (!itsg_gf_abnlookup_form_has_abnlookup()) return;
 		
 	var field_type = field['type'];
-	console.log(field_type);
+	//console.log(field_type);
 	if ('text' == field_type) {
 
 		// the fields

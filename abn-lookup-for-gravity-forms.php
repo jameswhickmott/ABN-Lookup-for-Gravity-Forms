@@ -2,7 +2,7 @@
 /*
 Plugin Name: ABN Lookup for Gravity Forms
 Description: Connect the Australian Government ABN Lookup tool to Gravity Forms.
-Version: 1.8.0
+Version: 1.8.1
 Author: Adrian Gordon
 Author URI: http://www.itsupportguides.com
 License: GPL2
